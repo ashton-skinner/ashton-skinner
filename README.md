@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashton-skinner (they/them)
-- 👀 I’m interested in data analytics & data visualization, and using these skills to influence social change and policy
+- 👀 I’m interested in data analytics/visualization and using these skills to influence social change and policy
 - 🌱 I’m currently learning SQL & completing Google's Data Analytics Professional Certificate
 - 💞️ I’m looking to find mentorship and meet folx who have career experience as Data Analysts
 - 🏳️‍⚧ 🏳️‍🌈 Proud trans, nonbinary, & queer person
