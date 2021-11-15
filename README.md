@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ashton-skinner (they/them)
+- 👀 I’m interested in data analytics & data visualization, and using these skills to influence social change and policy
+- 🌱 I’m currently learning SQL & completing Google's Data Analytics Professional Certificate
+- 💞️ I’m looking to find mentorship and meet folx who have career experience as Data Analysts
+- 🏳️‍⚧ 🏳️‍🌈 Proud trans, nonbinary, & queer person
+- 🌵 🚕  Born & raised in Arizona. Now I call Brooklyn, NY home! 
+- 📫 How to reach me: ashton.skinner@gmail.com & www.linkedin/com/in/ashtonskinner
